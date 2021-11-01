@@ -1,4 +1,4 @@
-### Hi there 👋
+![alt text](https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom.png)
 
 <!--
 **Tugdual-G/Tugdual-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
