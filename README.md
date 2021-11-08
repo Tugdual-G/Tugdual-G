@@ -7,6 +7,7 @@
 **Cubed sphere
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animvue2.gif" width="35%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="35%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/snapsphere.gif" width="35%"></img>
 <!--
 **Tugdual-G/Tugdual-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
