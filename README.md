@@ -3,11 +3,9 @@
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom1.png" align="center" width="100%"></img>
 
 
-
 **Surface tension simulation**
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
-
 
 
 **Cubed sphere**
