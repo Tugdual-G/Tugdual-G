@@ -10,9 +10,9 @@
 
 **Cubed sphere**
 
-<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animvue2.gif" width="25%"></img>
-<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="25%"></img>
-<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/snapsphere.png" width="25%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animvue2.gif" width="33%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="33%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/snapsphere.png" width="33%"></img>
 <!--
 **Tugdual-G/Tugdual-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
