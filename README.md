@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom1.png" align="center" width="100%"></img>
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
+
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animvue2.gif" width="50%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="50%"></img>
 <!--
 **Tugdual-G/Tugdual-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
