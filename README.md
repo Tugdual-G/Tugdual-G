@@ -17,6 +17,7 @@
 **Vortex in 2d flow** : [Vortex](https://github.com/Tugdual-G/Vortex)
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/medusevortex.png" width="33%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Vortex/main/vortex.gif" width="33%"></img>
 
 #  
 **Parallel multigrid Solver** : [multigrid](https://github.com/Tugdual-G/multigrid)
