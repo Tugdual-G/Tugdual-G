@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom1.png" align="center" width="100%"></img>
 
 #  
-**Surface tension simulation** : [Fluid2d fork](https://github.com/Tugdual-G/Fluid2d/tree/droplet)
+**Surface tension simulation** : [A fork from Fluid2d](https://github.com/Tugdual-G/Fluid2d/tree/droplet)
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
 
