@@ -9,7 +9,7 @@
 
 
 #  
-**Cubed sphere**, parallel computing on the gnomonic equiangular grid, using a modified version of [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.
+**Cubed sphere**, parallel computing on the gnomonic equiangular grid, performed by modifying [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.
 
 The cubed sphere module can compute surfaces waves correctly. More work is needed to found a consistent reconstruction of fluid velocity at the grid vertices to handle the vorticity induced by the rotation of the sphere. This issue is due to the severe non-orthogonality at the corners of the cube's faces.
 
