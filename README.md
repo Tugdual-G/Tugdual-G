@@ -7,15 +7,11 @@
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/vismulti.png" width="50%"></img>
 
-#  
-**Surface tension simulation** : [A fork from Fluid2d](https://github.com/Tugdual-G/Fluid2d/tree/droplet)
-
-<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
 
 #  
-**Cubed sphere**, parallel computing on the gnomonic equiangular grid, based on [pyRSW](https://github.com/pvthinker/pyRSW)
+**Cubed sphere**, parallel computing on the gnomonic equiangular grid, using a modified version of [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.
 
-The cubed sphere module can compute surfaces waves correctly. More work is needed to found a consistent reconstruction of fluid velocity at the grid vertices to handle the vorticity induced by the rotation of the sphere.
+The cubed sphere module can compute surfaces waves correctly. More work is needed to found a consistent reconstruction of fluid velocity at the grid vertices to handle the vorticity induced by the rotation of the sphere. This issue is due to the severe non-orthogonality at the corners of the cube's faces.
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animvue2.gif" width="33%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="33%"></img>
@@ -26,5 +22,9 @@ The cubed sphere module can compute surfaces waves correctly. More work is neede
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/medusevortex.png" width="33%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Vortex/main/vortex.gif" width="33%"></img>
 
+#  
+**Surface tension simulation** : [A fork from Fluid2d](https://github.com/Tugdual-G/Fluid2d/tree/droplet)
+
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
 
 
