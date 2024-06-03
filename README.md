@@ -1,6 +1,6 @@
 **Conformal transformations of triangular meshes** : [transformal](https://github.com/Tugdual-G/transformal)
 
-<img src="https://raw.githubusercontent.com/Tugdual-G/transformal/main/animation_crop.gif" align="center" width="100%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/transformal/main/animation_crop.gif" align="center" width="50%"></img>
 
 #
 **Mandelbrot set gost-points** : [budack](https://github.com/Tugdual-G/budack)
