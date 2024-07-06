@@ -14,8 +14,10 @@
 #  Cubed sphere
 **Parallel computing on the gnomonic equiangular grid, performed by modifying [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.**
 
-Out of the box pyRSW can compute flow on curved surfaces but cannot handle skewed grid, moreover the topology of the cubed sphere ask for tailor-made parallel communications between processes. 
-For now, the cubed sphere module is able to compute surfaces waves correctly. More work is needed to found a consistent reconstruction of fluid velocity at the grid vertices to handle the vorticity induced by the rotation of the sphere. This issue is due to the severe non-orthogonality at the corners of the cube's faces. [Link to the AGU article](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002663)
+Out of the box pyRSW can compute flow on curved surfaces but cannot handle skewed grids, moreover the topology of the cubed sphere ask for tailor-made parallel communications between processes.
+For this purpose, the module uses a "stairway" cube net in order to simplify the implementation of the communications (see the image below). 
+For now, the cubed sphere module is able to compute surfaces waves correctly. More work is needed to find a consistent reconstruction of fluid velocity at the grid vertices to handle the vorticity induced by the rotation of the sphere. 
+This issue is due to the severe non-orthogonality at the corners of the cube's faces. [Link to the AGU article](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002663)
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animvue2.gif" width="33%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="33%"></img>
@@ -26,19 +28,19 @@ For now, the cubed sphere module is able to compute surfaces waves correctly. Mo
 
 This is one of the first projects I participated in.
 
-Here we tried to implement an Eulerian description of the droplet interface using the level-set method in the context of the Bousinesq approximation of the  Navier-Stockes equations, i.e., for small changes of buoyancy.
+Here we tried to implement an Eulerian description of the droplet interface using the level-set method in the context of the Boussinesq approximation of the  Navier-Stockes equations, i.e., for small changes of buoyancy.
 This led us to :
 - Painfully rediscover the Eötvös number (_Eo_, which we called _α_ in the image below).
 - With dismay, find by a simple geometric argument that in order to get an _O(h²)_ convergence, _O(h⁴)_ convergence is needed on the interface location.
 - For small Eötvös numbers, i.e., when the volume forces are small in comparison to the surface tension, it is extremely difficult to find a stable numerical scheme.
-- Conclude that using a vorticity based model and the Bousinesq approximation is one of the worst cases to implement a multiphases flow simulation.
+- Conclude that using a vorticity based model and the Boussinesq approximation is one of the worst cases to implement a multiphase flow simulation.
   
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
 
 # 2d flow fluid simulation : [Vortex](https://github.com/Tugdual-G/Vortex)
 
 My first personal code project, which I implemented after getting a bit too interested in the vorticity equation. 
-This program is old and may seem naive, however its implementation uses a less common description of the fluid, which lead to an extremely simple implementation.
+This program is old and may seem naive, however its implementation uses a less common description of the fluid, which leads to an extremely simple implementation.
 Nevertheless, the scheme uses finite differences and an explicit time step, which is quite unstable.
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/medusevortex.png" width="33%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Vortex/main/vortex.gif" width="33%"></img>
