@@ -14,7 +14,7 @@
 #  Cubed sphere
 **Parallel computing on the gnomonic equiangular grid, performed by modifying [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.**
 
-Out of the box pyRSW can compute flow on curved surfaces but cannot handle skewed grids, moreover the topology of the cubed sphere ask for tailor-made parallel communications between processes.
+Out of the box pyRSW can compute flow on curved surfaces but cannot handle skewed grids, moreover the topology of the cubed sphere asks for tailor-made parallel communications between processes.
 For this purpose, the module uses a "stairway" cube net in order to simplify the implementation of the communications (see the image below). 
 For now, the cubed sphere module is able to compute surfaces waves correctly. More work is needed to find a consistent reconstruction of fluid velocity at the grid vertices to handle the vorticity induced by the rotation of the sphere. 
 This issue is due to the severe non-orthogonality at the corners of the cube's faces. [Link to the AGU article](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002663)
