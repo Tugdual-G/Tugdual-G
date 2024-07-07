@@ -1,12 +1,17 @@
 # Conformal transformations of triangular meshes : [transformal](https://github.com/Tugdual-G/transformal)
+Why are computer graphics nerds obsessed with turning rabbits into spheres? I think I've figured it out.
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/transformal/main/animation_crop.gif" align="center" width="50%"></img>
 
 # Real-time rendering of the Mandelbrot set gost-points : [budack](https://github.com/Tugdual-G/budack)
+I don´t think of fractals as being aesthetically interesting, nevertheless this one caught my interest so I tried to make it look good :
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom1.png" align="center" width="100%"></img>
 
 #  Parallel multigrid Solver : [multigrid](https://github.com/Tugdual-G/multigrid)
+The hello world equation with a twist.
+
+The solution of the Poisson equation depends on the global information over the domain, therefore finding a good parallel computing scheme is far from trivial.
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/vismulti.png" width="50%"></img>
 
