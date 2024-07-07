@@ -36,7 +36,7 @@ This is one of the first projects I participated in.
 Here we tried to implement an Eulerian description of the droplet interface using the level-set method in the context of the Boussinesq approximation of the  Navier-Stockes equations, i.e., for small changes of buoyancy.
 This led us to :
 - Painfully rediscover the Eötvös number (_Eo_, which we called _α_ in the image below).
-- With dismay, find by a simple geometric argument that in order to get an _O(h²)_ convergence, _O(h⁴)_ convergence is needed on the interface location.
+- With dismay, find by a simple geometric argument that in order to get an _O(h²)_ convergence on the curvature estimation, _O(h⁴)_ convergence is needed on the interface location.
 - For small Eötvös numbers, i.e., when the volume forces are small in comparison to the surface tension, it is extremely difficult to find a stable numerical scheme.
 - Conclude that using a vorticity based model and the Boussinesq approximation is one of the worst cases to implement a multiphase flow simulation.
   
