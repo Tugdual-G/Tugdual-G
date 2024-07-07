@@ -46,7 +46,7 @@ This led us to :
 
 My first personal code project, which I implemented after getting a bit too interested in the vorticity equation. 
 This program is old and may seem naive, however its implementation uses a less common description of the fluid, which leads to an extremely simple implementation.
-Nevertheless, the scheme uses finite differences and an explicit time step, which is quite unstable.
+Nevertheless, the scheme uses finite differences and an explicit time integration, which is quite unstable.
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/medusevortex.png" width="33%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Vortex/main/vortex.gif" width="33%"></img>
 
