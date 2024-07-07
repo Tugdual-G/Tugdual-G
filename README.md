@@ -28,6 +28,15 @@ This issue is due to the severe non-orthogonality at the corners of the cube's f
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/animsphere.gif" width="33%"></img>
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/snapsphere.png" width="33%"></img>
 
+
+# 2d flow fluid simulation : [Vortex](https://github.com/Tugdual-G/Vortex)
+
+My first personal code project, which I implemented after getting a bit too interested in the vorticity equation. 
+This program is old and may seem naive, however its implementation uses a less common description of the fluid, which leads to an extremely simple implementation.
+Nevertheless, the scheme uses finite differences and an explicit time integration, which result in a quite unstable computation.
+<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/medusevortex.png" width="33%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/Vortex/main/vortex.gif" width="33%"></img>
+
 #  Surface tension module for [Fluid2d](https://github.com/Tugdual-G/Fluid2d/tree/droplet)
 **With the help of [Malo Kerebel](https://github.com/Malo-Kerebel)**
 
@@ -42,13 +51,6 @@ This led us to :
   
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/collection.png" align="center" width="100%"></img>
 
-# 2d flow fluid simulation : [Vortex](https://github.com/Tugdual-G/Vortex)
-
-My first personal code project, which I implemented after getting a bit too interested in the vorticity equation. 
-This program is old and may seem naive, however its implementation uses a less common description of the fluid, which leads to an extremely simple implementation.
-Nevertheless, the scheme uses finite differences and an explicit time integration, which is quite unstable.
-<img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/medusevortex.png" width="33%"></img>
-<img src="https://raw.githubusercontent.com/Tugdual-G/Vortex/main/vortex.gif" width="33%"></img>
 
 
 
