@@ -3,10 +3,18 @@ Why are computer graphics nerds obsessed with turning rabbits into spheres? I th
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/transformal/main/animation_crop.gif" align="center" width="50%"></img>
 
+
 # Real-time rendering of the Mandelbrot set gost-points : [budack](https://github.com/Tugdual-G/budack)
-I don´t think of fractals as being aesthetically interesting, nevertheless this one caught my interest so I tried to make it look good :
+I don't think of fractals as being aesthetically interesting, nevertheless this one caught my interest so I tried to make it look good :
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom1.png" align="center" width="100%"></img>
+
+
+# Viewer library for triangular meshes : [TrimeshViewer](https://github.com/Tugdual-G/TrimeshViewer)
+A bad excuse to learn c++ and openGL.
+
+<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" align="center" width="25%"></img>
+
 
 #  Parallel multigrid Solver : [multigrid](https://github.com/Tugdual-G/multigrid)
 The hello world equation with a twist.
