@@ -25,7 +25,7 @@ The solution of the Poisson equation depends on the global information over the 
 
 
 #  Cubed sphere
-**Parallel computing on the gnomonic equiangular grid, performed by modifying [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.**
+**Parallel computing of the shallow water equations on the gnomonic equiangular grid, performed by modifying [pyRSW](https://github.com/pvthinker/pyRSW), a discrete exterior calculus based model.**
 
 Out of the box pyRSW can compute flow on curved surfaces but cannot handle skewed grids, moreover the topology of the cubed sphere asks for tailor-made parallel communications between processes.
 For this purpose, the module uses a "stairway" cube net in order to simplify the implementation of the communications (see the image below). 
