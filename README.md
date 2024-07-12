@@ -13,7 +13,7 @@ I don't think of fractals as being aesthetically interesting, nevertheless this 
 # Viewer library for triangular meshes : [TrimeshViewer](https://github.com/Tugdual-G/TrimeshViewer)
 A bad excuse to learn c++ and openGL.
 
-<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" align="center" width="25%"></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" align="center" width="40%"></img>
 
 
 #  Parallel multigrid Solver : [multigrid](https://github.com/Tugdual-G/multigrid)
