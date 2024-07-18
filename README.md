@@ -1,8 +1,8 @@
 # Viewer library for triangular meshes : [TrimeshViewer](https://github.com/Tugdual-G/TrimeshViewer)
 A bad excuse to learn c++ and openGL.
 
-<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" alt="example" width="30%"/></img>
-<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/vortex_ring.png" alt="example" width="30%"/></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" alt="example" width="40%"/></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/vortex_ring.png" alt="example" width="40%"/></img>
 
 
 # Conformal transformations of triangular meshes : [transformal](https://github.com/Tugdual-G/transformal)
