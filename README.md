@@ -1,3 +1,10 @@
+# Viewer library for triangular meshes : [TrimeshViewer](https://github.com/Tugdual-G/TrimeshViewer)
+A bad excuse to learn c++ and openGL.
+
+<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" alt="example" width="30%"/></img>
+<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/vortex_ring.png" alt="example" width="30%"/></img>
+
+
 # Conformal transformations of triangular meshes : [transformal](https://github.com/Tugdual-G/transformal)
 Why are computer graphics nerds obsessed with turning rabbits into spheres? I think I've figured it out.
 
@@ -9,11 +16,6 @@ I don't think of fractals as being aesthetically interesting, nevertheless this 
 
 <img src="https://raw.githubusercontent.com/Tugdual-G/Tugdual-G/main/images/graysclezoom1.png" align="center" width="100%"></img>
 
-
-# Viewer library for triangular meshes : [TrimeshViewer](https://github.com/Tugdual-G/TrimeshViewer)
-A bad excuse to learn c++ and openGL.
-
-<img src="https://raw.githubusercontent.com/Tugdual-G/TrimeshViewer/main/example.png" align="center" width="40%"></img>
 
 
 #  Parallel multigrid Solver : [multigrid](https://github.com/Tugdual-G/multigrid)
